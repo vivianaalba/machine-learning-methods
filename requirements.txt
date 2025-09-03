@@ -1,0 +1,13 @@
+pandas
+seaborn
+matplotlib
+numpy
+scikit-learn
+statsmodels
+bootstrapped
+scikit-learn
+scipy
+scikit-multilearn
+xgboost
+imblearn
+
